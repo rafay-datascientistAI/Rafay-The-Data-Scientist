@@ -37,7 +37,7 @@ Here are some of my key projects:
 ## 📫 How to Reach Me
 - **Email:** rafay.datascientist.ai@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/muhammad-rafay-30267b3b7  
-- **GitHub:** [github.com/yourusername](https://github.com/)  
+- **GitHub:** https://github.com/rafay-datascientistAI  
 
 ---
 
